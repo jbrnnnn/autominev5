@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "automine",
+  "version": "${version}",
+  "name": "AutoMine Bot",
+  "description": "Auto mine ore + Block ESP + auto tebang kayu, dengan pathfinding otomatis dan GUI. Bisa dibuka dari Mod Menu.",
+  "authors": ["You"],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["com.automine.AutoMineClient"],
+    "modmenu": ["com.automine.AutoMineModMenu"]
+  },
+  "depends": {
+    "fabricloader": ">=0.18.4",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

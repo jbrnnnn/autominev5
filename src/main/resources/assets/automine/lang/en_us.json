@@ -1,0 +1,8 @@
+{
+  "key.category.automine.main": "AutoMine Bot",
+  "key.automine.open_gui": "Buka menu AutoMine",
+  "key.automine.toggle_mine": "Mulai/Stop Auto Mine",
+  "key.automine.toggle_wood": "Mulai/Stop Auto Tebang Kayu",
+  "modmenu.nameTranslation.automine": "AutoMine Bot",
+  "modmenu.descriptionTranslation.automine": "Auto mine ore, auto chop trees, lava avoidance, auto /repair, tree climbing."
+}
